@@ -42,7 +42,7 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:3000
+Then open **Live demo:** https://condoqueue.netlify.app/
 
 No environment variables are required to run it.
 
